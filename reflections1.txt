@@ -1,0 +1,7 @@
+This is the first reflection for the git course.
+A second reflection.
+Commits should be added after logical stopping points.
+Multiple files reflection.
+Yet another reflection.
+With v-c, you can revert to previous versions before bugs were introduced.
+Git will be used for future projects.
